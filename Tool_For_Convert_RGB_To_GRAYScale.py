@@ -19,4 +19,3 @@ convert_button = tk.Button(root, text="Convert Images", command=convert_images)
 convert_button.pack()
 
 root.mainloop()
-#Use in CMD (pip install opencv-python)
